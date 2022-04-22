@@ -1,0 +1,25 @@
+{
+  "name": "what-is-privacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanconcepcion/what-is-privacy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanconcepcion/what-is-privacy/issues"
+  },
+  "homepage": "https://github.com/Emanconcepcion/what-is-privacy#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "mysql": "^2.18.1"
+  }
+}
